@@ -31,18 +31,21 @@ Users should be able to:
 ### Screenshot
 
 Desktop
+
 ![](./screencapture-localhost-3000-2024-08-26-16_20_56.png)
 
 Tablet
+
 ![](./screencapture-localhost-3000-2024-08-26-16_21_21.png)
 
 Mobile
+
 ![](./screencapture-localhost-3000-2024-08-26-16_21_36.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/space-tourism-website---nextjs-X03NBRX1NJ](https://www.frontendmentor.io/solutions/space-tourism-website---nextjs-X03NBRX1NJ)
+- Live Site URL: [https://space-tourism-website-coral-sigma.vercel.app](https://space-tourism-website-coral-sigma.vercel.app)
 
 ## My process
 
